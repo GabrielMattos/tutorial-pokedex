@@ -18,6 +18,7 @@
     "importHelpers": true,
     "target": "es2017",
     "module": "es2020",
+    "strictPropertyInitialization": false, // Assim não é necessario colocar algum valor na variavel criada
     "lib": [
       "es2020",
       "dom"
